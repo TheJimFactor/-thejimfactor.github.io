@@ -1,0 +1,8 @@
+title: thejimfactor.GitHub.io
+description: My User Wiki
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
